@@ -1,4 +1,5 @@
 #this inserts all names into data base, 14000 of them, could not get it working in jupyter so #kept is seperate
+##using https://github.com/Dself76/prediction_pipline repo in github 
 import csv
 import mysql.connector
 
