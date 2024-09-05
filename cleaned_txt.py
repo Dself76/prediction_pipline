@@ -83,9 +83,9 @@ class CryptoDocumentProcessor:
 
 # Configuration for database connection
 db_config = {
-    'host': 'your_host',
-    'user': 'your_user',
-    'password': 'your_password',
+    'host': '127.0.0.1',
+    'user': 'root',
+    'password': 'Max123max123',
     'database': 'crypto_history'
 }
 
